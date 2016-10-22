@@ -1,0 +1,29 @@
+-
+	var verTag = "0.1.0"
+	var assetsPath = "/"
+	var siteRoot = "http://typedraw.laerhsif.com"	// http://realfish-rmbp.local:5757
+
+doctype html
+
+block var
+	- var pageTitl
+	- var pageDisc
+	- var pageKeyw
+	- var bodyClass
+	- var bodyClassModifier
+
+- if (bodyClassModifier) bodyClassModifier = " " + bodyClassModifier
+
+html(lang="zh")
+	block head
+		include _head
+	
+	body(class=(bodyClass + bodyClassModifier))
+		block bodyHeader
+		
+		block bodyMain
+		
+		block bodyFooter
+		
+		block bodyScripts
+			script(type="text/javascript" src="#{assetsPath}assets/app.js?v=#{verTag}")
