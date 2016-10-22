@@ -1,6 +1,6 @@
 pages:
-	artifacts:
-		paths:
-		- dist
-	only:
-	- master
+  artifacts:
+    paths:
+    - dist
+  only:
+  - master
