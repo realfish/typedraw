@@ -1,4 +1,4 @@
 pages:
   artifacts:
     paths:
-    - dist
+    - public
