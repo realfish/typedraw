@@ -3,7 +3,9 @@
 (function() {
 	'use strict';
 	
-	var DONATORS_CSV_URL = '/csv/donators.csv';
+	var doc = document;
+	
+	var DONATORS_CSV_URL = 'csv/donators.csv';
 	var FETCH_GET_INIT = {
 		method: 'GET',
 		mode: 'cors',
@@ -31,6 +33,9 @@
 			max: donators.data.length - 1,
 		});
 		console.log('The lucky one: ' + donators.data[luck].id);
+		
+		var $main = doc.querySelector('main');
+		$main.innerHTML = '<p class="result">' + donators.data[luck].id + '</p>';
 	});
 
 })();
