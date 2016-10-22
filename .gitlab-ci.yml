@@ -1,6 +1,6 @@
 pages:
   artifacts:
     paths:
-    - dist
+    - public
   only:
-  - master
+    - master
