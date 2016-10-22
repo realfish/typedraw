@@ -83,7 +83,7 @@
 		"outputAbbreviatedPath": "\/dist\/assets\/app.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 0,
+		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
 	"\/javascript\/_libs.js": {
@@ -191,6 +191,26 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/basis.less",
 		"outputAbbreviatedPath": "\/assets\/basis.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 1,
+		"strictUnits": 1
+		},
+	"\/less\/module\/result.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/module\/result.less",
+		"outputAbbreviatedPath": "\/less\/assets\/result.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -942,7 +962,7 @@
 			"flagValue": -1
 			},
 		"drop_console": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"drop_debugger": {
