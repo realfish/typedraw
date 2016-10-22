@@ -1,0 +1,4 @@
+/**
+ * Assembly list:
+ * - main.js
+ */
