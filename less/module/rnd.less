@@ -1,0 +1,49 @@
+.rnd {
+	width: 192px;
+	padding-top: 48px;
+	border-bottom: @line-text;
+	margin: 0 auto;
+}
+.rnd-info,
+.rnd-control {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.rnd-info {
+	width: (192px - 48);
+}
+.rnd-num {
+	display: block;
+	height: 1em;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	color: @hl;
+	font-size: 32px;
+	font-style: italic;
+	line-height: 1em; 
+}
+.rnd-caption {
+	font-size: 10px;
+	font-weight: 400;
+	text-transform: uppercase;
+	line-height: (14/10);
+}
+
+.rnd-control {
+	width: 48px;
+}
+.rnd-btn {
+	display: block;
+	width: (48em/24);
+	border-radius: (4em/24);
+	border: @line-text;
+	box-sizing: border-box;
+	margin: 16px 0;
+	font-size: 24px;
+	text-align: center;
+	line-height: (46/24);
+}
+.rnd-btn.is-disabled {
+	opacity: .5;
+}

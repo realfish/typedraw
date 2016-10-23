@@ -1,0 +1,26 @@
+.ack {
+	width: 100%;
+	padding-top: 28px;
+	font-size: 10px;
+	line-height: (14/10);
+	text-align: center;
+	transition:
+		opacity ease-in-out .3s,
+		transform ease-in-out .5s;
+	will-change:
+		opacity,
+		transform;
+}
+.ack.is-disabled {
+	opacity: 0;
+	transform: translateY(24px);
+}
+
+.ack-time {
+	font-style: italic;
+}
+
+.ack-list {
+	color: @hl;
+	text-decoration: underline;
+}

@@ -1,5 +1,5 @@
 -
-	var verTag = "0.2.0"
+	var verTag = "1.0.0"
 	var assetsPath = "/"
 	var siteRoot = "http://typedraw.laerhsif.com"	// http://realfish-rmbp.local:5757
 
@@ -14,7 +14,7 @@ block var
 
 - if (bodyClassModifier) bodyClassModifier = " " + bodyClassModifier
 
-html(lang="zh")
+html(lang="en")
 	block head
 		include _head
 	
@@ -24,6 +24,8 @@ html(lang="zh")
 		block bodyMain
 		
 		block bodyFooter
+		
+		block dotTemplate
 		
 		block bodyScripts
 			script(type="text/javascript" src="#{assetsPath}assets/app.js?v=#{verTag}")

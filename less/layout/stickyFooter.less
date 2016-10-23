@@ -1,0 +1,16 @@
+main.stickyFooter  {
+	min-height: 100%;
+	box-sizing: border-box;
+	margin-bottom: (-80px);
+	
+	&::after {
+		content: "";
+		display: block;
+		height: 80px;
+	}
+}
+footer.stickyFooter {
+	position: relative;
+	z-index: @zIndex-2;
+	height: 80px;
+}

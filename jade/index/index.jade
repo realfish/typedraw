@@ -15,4 +15,39 @@ block var
 	
 
 block bodyMain
-	main(role="main")
+	main(role="main").stickyFooter
+		.machine
+			form.rnd
+				.rnd-info
+					input#rnd-num.rnd-num(type="number" value="1" disabled)
+					h5.rnd-caption Rounds of<br> Drawing
+				.rnd-control
+					a#rnd-inc.rnd-btn(href="javascript:void(0)") ＋
+					a#rnd-dec.rnd-btn.is-disabled(href="javascript:void(0)") －
+			section.draw
+				a#draw-btn.draw-btn.is-disabled(href="javascript:void(0)") Draw
+		.announce
+			//- ul.result
+			//- 	li.result-item
+			//- 		h3.result-id 捐赠代号
+			//- 		p.result-channel via 
+			//- 			span.result-channel-name Alipay
+
+block bodyFooter
+	footer.stickyFooter
+		p.ack.is-disabled Up to 
+			time.ack-time
+			| ,<br>there are 
+			em.ack-num
+			|  donors for TypeChat. 
+			a#action-donors.ack-list(href="javascript:void(0)") Thank you all.
+	.modal
+		.modal-main
+		a#modal-close.modal-close ↓ Back
+
+block dotTemplate
+	script#tmpl-result(type="text/x-dot-template")
+		include ../../dot/result.html
+	script#tmpl-donors(type="text/x-dot-template")
+		include ../../dot/donors.html
+

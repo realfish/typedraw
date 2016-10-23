@@ -1,0 +1,52 @@
+.announce {
+	position: absolute;
+	visibility: hidden;
+	// top: 15%;
+	top: 0;
+	// bottom: 35%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	opacity: 0;
+	transform: translate3d(0, 50%, 0);
+	will-change:
+		visibility,
+		opacity,
+		transform;
+	transition:
+		visibility 0s linear 0s,
+		opacity .3s ease-in-out .1s,
+		transform .5s ease-in-out .1s;
+	
+	&::before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: @zIndex-1;
+		display: block;
+		width: 100%;
+		height: 15%;
+		background-color: @bg-black;
+		box-shadow: 0 32px 32px @bg-black;
+	}
+	&::after {
+		content: "";
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		z-index: @zIndex-1;
+		display: block;
+		width: 100%;
+		height: 35%;
+		background-color: @bg-black;
+		box-shadow: 0 -32px 48px @bg-black;
+	}
+	
+	
+}
+.announce.is-show {
+	visibility: visible;
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+}
