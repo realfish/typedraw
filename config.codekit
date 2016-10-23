@@ -61,7 +61,7 @@
 		"outputAbbreviatedPath": "\/public\/assets\/app.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 0,
+		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
 	"\/javascript\/_define.js": {
