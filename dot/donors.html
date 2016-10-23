@@ -1,0 +1,21 @@
+<ul class="donors">
+	{{~it :donor}}
+	<li class="donors-item">
+		<p class="donors-item-id">{{=donor.id}}</p>
+		<p class="donors-item-info">
+			<span class="donors-item-channel">{{=donor.channel}} </span>
+			{{? donor.type === 'staff' }}
+			<span class="donors-item-type">★</span>
+			{{?? donor.type === 'org' }}
+			<span class="donors-item-type">◼︎</span>
+			{{??}}
+				{{? donor.flag === '1' }}
+				<span class="donors-item-type">●</span>
+				{{??}}
+				<span class="donors-item-type">○</span>
+				{{?}}
+			{{?}}
+		</p>
+	</li>
+	{{~}}
+</ul>

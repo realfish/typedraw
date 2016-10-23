@@ -1,0 +1,28 @@
+.draw {
+	width: 192px;
+	margin: 24px auto;
+}
+
+.draw-btn {
+	display: block;
+	width: 100%;
+	height: 192px;
+	border: 2px solid currentColor;
+	border-radius: 7px;
+	box-sizing: border-box;
+	color: @hl;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 600;
+	line-height: ((192 - 4)/16);
+	transition:
+		opacity ease-in-out .3s,
+		transform ease-in-out .5s;
+	will-change:
+		opacity,
+		transform;
+}
+.draw-btn.is-disabled {
+	opacity: 0;
+	transform: translateY(48px);
+}

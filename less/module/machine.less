@@ -1,0 +1,12 @@
+.machine {
+	transition:
+		opacity .3s ease-in-out,
+		transform .5s ease-in-out;
+	will-change:
+		opacity,
+		transform;
+}
+.machine.is-hidden {
+	opacity: 0;
+	transform: translate3d(0, -100%, 0);
+}

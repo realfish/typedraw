@@ -1,0 +1,63 @@
+@durOn: 0.425s;
+@durOff: 0.375s;
+
+.modal {
+	position: absolute;
+	visibility: hidden;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: @zIndex-5;
+	overflow: hidden;
+	background-color: @bg-black;
+	transition: visibility 0s linear @durOff;
+	
+	.modal-close {
+		transform: translate3d(0, (-125%), 0);
+		transition: transform (@durOn/2) ease-in;
+	}
+}
+.modal.is-active {
+	visibility: visible;
+	transition: visibility 0s linear 0s;
+	
+	.modal-close {
+		transform: translate3d(0, 0, 0);
+		transition: transform (@durOn/2) ease-out (@durOn/2);
+	}
+}
+
+.modal-main {
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+	opacity: 0;
+	transform: translate3d(0, 100%, 0);
+	will-change:
+		opacity,
+		transform;
+	transition:
+		opacity @durOff ease-in-out,
+		transform @durOff ease-in;
+}
+.is-active .modal-main {
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+	transition:
+		opacity (@durOn*2/3) ease-in-out,
+		transform @durOn ease-out;
+}
+
+.modal-close {
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: @zIndex-5;
+	padding: 24px 24px 48px 48px;
+	color: @hl;
+	font-size: 10px;
+	text-transform: uppercase;
+}
