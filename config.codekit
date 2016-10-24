@@ -141,6 +141,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/javascript\/method\/seed.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascript\/method\/seed.js",
+		"outputAbbreviatedPath": "\/javascript\/method\/min\/seed-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/javascript\/view\/draw.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -454,6 +465,61 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/public\/assets\/apple-touch-icon-120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4788,
+		"inputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-120.png",
+		"outputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/apple-touch-icon-152.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6208,
+		"inputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-152.png",
+		"outputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-152.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/apple-touch-icon-180.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7567,
+		"inputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-180.png",
+		"outputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-180.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/apple-touch-icon-76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2937,
+		"inputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-76.png",
+		"outputAbbreviatedPath": "\/public\/assets\/apple-touch-icon-76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6208,
+		"inputAbbreviatedPath": "\/public\/assets\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/public\/assets\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/assets\/libs.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -464,6 +530,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/public\/assets\/social-thumb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62273,
+		"inputAbbreviatedPath": "\/public\/assets\/social-thumb.jpg",
+		"outputAbbreviatedPath": "\/public\/assets\/social-thumb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/public\/index.html": {
 		"fileType": 8192,
@@ -484,30 +561,36 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/javascript\/_define.js",
 			"position": 0,
-			"type": 1
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/javascript\/method\/seed.js",
+			"position": 1,
+			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/javascript\/main.js",
-			"position": 1,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/javascript\/view\/draw.js",
 			"position": 2,
 			"type": 1
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/javascript\/view\/modal.js",
+			"linkedFileAbbreviatedPath": "\/javascript\/view\/draw.js",
 			"position": 3,
 			"type": 1
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/javascript\/view\/round.js",
+			"linkedFileAbbreviatedPath": "\/javascript\/view\/modal.js",
 			"position": 4,
+			"type": 1
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/javascript\/view\/round.js",
+			"position": 5,
 			"type": 1
 			}
 		],

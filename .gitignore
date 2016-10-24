@@ -1,2 +1,5 @@
 # Design dir
 design/
+
+# Some shell scripts for realfish
+*.realfish
