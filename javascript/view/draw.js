@@ -8,7 +8,7 @@
 	
 	
 	var EXPIRATION_TIME = '24 October 2016 00:00 UTC+8';
-	var DONORS_CSV_URL = 'csv/donors.csv';
+	var DONORS_CSV_URL = './csv/donors.csv';
 	var FETCH_GET_INIT = {
 		method: 'GET',
 		mode: 'cors',
