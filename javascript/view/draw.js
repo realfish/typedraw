@@ -17,9 +17,16 @@
 		header: true,
 	};
 	
-	var seed = Date.now();
 	
-	var typeChance = new Chance(seed);
+	
+	var initTypeChance = function() {
+		// Get seed
+		var seed = TD.seed.get();
+		// Save seed to URL hash
+		TD.seed.set(seed);
+		
+		return new Chance(seed);
+	};
 	
 	var donorFilter = function(_donors) {
 		var candidates = [];
@@ -35,6 +42,7 @@
 	
 	var typeDraw = function(candidates, round) {
 		var luckNum;
+		var typeChance = initTypeChance();
 		
 		for (var i = 0; i < round; i++) {
 			// Draw a lucky donor

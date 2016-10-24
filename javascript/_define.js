@@ -6,3 +6,6 @@ TD.donors = [];
 
 // Lucky donors
 TD.lucks = [];
+
+// Seed methods
+TD.seed = {};
