@@ -1,9 +1,9 @@
 ## Archives
 
-#### TypeDraw #1
+### TypeDraw #1
 
 - Winner:
-	- **Fei** (via WeChat), *suspended*
+	- **Fei** (via WeChat), *suspending*
 	- **Juefei Xu** (via PayPal)
 - Prize: [《平面设计中的网格系统》](http://www.typeisbeautiful.com/grid-system/)
 - Due: 24 October 2016 00:00 UTC+8
