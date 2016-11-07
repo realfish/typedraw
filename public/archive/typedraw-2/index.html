@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>TypeDraw</title><meta name="title" content="TypeDraw"><meta name="description" content="TypeDraw, the tiny bingo cage for TypeChat."><meta name="keywords" content="TypeDraw, TypeChat, podcast, raffle, luck, draw, bingo, TIB, TypeisBeautiful, type, beautiful"><meta name="viewport" content="width=device-width,maximum-scale=1.0,minimum-scale=1.0"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="format-detection" content="telephone=no"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="apple-touch-icon" href="./assets/apple-touch-icon.png?v=1.1.0"><link rel="apple-touch-icon" sizes="76x76" href="./assets/apple-touch-icon-76.png?v=1.1.0"><link rel="apple-touch-icon" sizes="120x120" href="./assets/apple-touch-icon-120.png?v=1.1.0"><link rel="apple-touch-icon" sizes="152x152" href="./assets/apple-touch-icon-152.png?v=1.1.0"><link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon-180.png?v=1.1.0"><link rel="shortcut icon" href="./assets/favicon.ico?v=1.1.0"><link rel="stylesheet" href="./assets/app.css?v=1.1.0"><script type="text/javascript" src="./assets/libs.js?v=1.1.0"></script><meta property="og:title" content="TypeDraw"><meta property="og:description" content="TypeDraw, the tiny bingo cage for TypeChat."><meta property="og:url" content="http://typedraw.laerhsif.com/"><meta property="og:image" content="http://typedraw.laerhsif.com./assets/social-thumb.jpg?v=1.1.0"><meta property="twitter:card" content="summary"><meta name="twitter:site" content="@theType"></head><body><main role="main" class="stickyFooter"><div class="machine"><form class="rnd"><div class="rnd-info"><input id="rnd-num" type="number" value="1" disabled class="rnd-num"><h5 class="rnd-caption">Rounds of<br> Drawing</h5></div><div class="rnd-control"><a id="rnd-inc" href="javascript:void(0)" class="rnd-btn">＋</a><a id="rnd-dec" href="javascript:void(0)" class="rnd-btn is-disabled">－</a></div></form><section class="draw"><a id="draw-btn" href="javascript:void(0)" class="draw-btn is-disabled">Draw</a></section></div><div class="announce"></div></main><footer class="stickyFooter"><p class="ack is-disabled">Up to <time class="ack-time"></time>,<br>there are <em class="ack-num"></em> donors for TypeChat. <a id="action-donors" href="javascript:void(0)" class="ack-list">Thank you all.</a></p></footer><div class="modal"><div class="modal-main"></div><a id="modal-close" href="javascript:void(0)" class="modal-close">↓ Back</a></div><script id="tmpl-result" type="text/x-dot-template"><ul class="result">
+	{{~it :donor}}
+	<li class="result-item">
+		<h3 class="result-item-id">{{=donor.id}}</h3>
+		<p class="result-item-channel">via 
+			<span class="result-item-channel-name">{{=donor.channel}}</span>
+		</p>
+	</li>
+	{{~}}
+</ul>
+</script><script id="tmpl-donors" type="text/x-dot-template"><ul class="donors">
+	{{~it :donor}}
+	<li class="donors-item">
+		<p class="donors-item-id">{{=donor.id}}</p>
+		<p class="donors-item-info">
+			<span class="donors-item-channel">{{=donor.channel}} </span>
+			{{? donor.type === 'staff' }}
+			<span class="donors-item-type">★</span>
+			{{?? donor.type === 'org' }}
+			<span class="donors-item-type">◼︎</span>
+			{{??}}
+				{{? donor.flag === '1' }}
+				<span class="donors-item-type">●</span>
+				{{??}}
+				<span class="donors-item-type">○</span>
+				{{?}}
+			{{?}}
+		</p>
+	</li>
+	{{~}}
+</ul>
+</script><script type="text/javascript" src="./assets/app.js?v=1.1.0"></script></body></html>
