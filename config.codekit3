@@ -640,37 +640,37 @@
 			"active": 0
 			},
 		"es2015-arrow-functions": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-block-scoped-functions": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-block-scoping": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-classes": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-computed-properties": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-constants": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-destructuring": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-duplicate-keys": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-for-of": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-function-name": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-literals": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-modules-amd": {
 			"active": 0
@@ -685,28 +685,28 @@
 			"active": 0
 			},
 		"es2015-object-super": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-parameters": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-shorthand-properties": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-spread": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-sticky-regex": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-template-literals": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-typeof-symbol": {
-			"active": 0
+			"active": 1
 			},
 		"es2015-unicode-regex": {
-			"active": 0
+			"active": 1
 			},
 		"es3-member-expression-literals": {
 			"active": 0
@@ -1050,7 +1050,7 @@
 			"optionString": "{'exceptMethods': []}"
 			},
 		"comma-dangle": {
-			"active": 1,
+			"active": 0,
 			"optionString": "'never'"
 			},
 		"comma-spacing": {
@@ -1270,7 +1270,7 @@
 			"optionString": "{'allowParens': false}"
 			},
 		"no-console": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'allow': ['warn', 'error']}"
 			},
 		"no-const-assign": {

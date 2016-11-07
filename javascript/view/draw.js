@@ -3,35 +3,39 @@
 (function() {
 	'use strict';
 	
-	var doc = document;
+	let doc = document;
 	
 	
 	
-	var EXPIRATION_TIME = '24 October 2016 00:00 UTC+8';
-	var DONORS_CSV_URL = './csv/donors.csv';
-	var FETCH_GET_INIT = {
+	const EXPIRATION_TIME = '7 November 2016 00:00 UTC+8';
+	const DONORS_CSV_URL = './csv/donors.csv';
+	const FETCH_GET_INIT = {
 		method: 'GET',
 		mode: 'cors',
+		headers: {
+			'Pragma': 'no-cache',
+			'Cache-Control': 'no-cache',
+		},
 	};
-	var CSV_CONFIG = {
+	const CSV_CONFIG = {
 		header: true,
 	};
 	
 	
 	
-	var initTypeChance = function() {
+	let initTypeChance = function() {
 		// Get seed
-		var seed = TD.seed.get();
+		let seed = TD.seed.get();
 		// Save seed to URL hash
 		TD.seed.set(seed);
 		
 		return new Chance(seed);
 	};
 	
-	var donorFilter = function(_donors) {
-		var candidates = [];
+	let donorFilter = function(_donors) {
+		let candidates = [];
 		
-		for (var i = 0; i < _donors.length; i++) {
+		for (let i = 0; i < _donors.length; i++) {
 			if (_donors[i].type === 'ind' && _donors[i].flag === '0') {
 				candidates.push(_donors[i]);
 			}
@@ -40,11 +44,11 @@
 		return candidates;
 	};
 	
-	var typeDraw = function(candidates, round) {
-		var luckNum;
-		var typeChance = initTypeChance();
+	let typeDraw = function(candidates, round) {
+		let luckNum;
+		let typeChance = initTypeChance();
 		
-		for (var i = 0; i < round; i++) {
+		for (let i = 0; i < round; i++) {
 			// Draw a lucky donor
 			luckNum = typeChance.integer({
 				min: 0,
@@ -60,14 +64,14 @@
 		}
 	};
 	
-	var initDraw = function() {
+	let initDraw = function() {
 		// Filter donors to get candidates
-		var candidates = donorFilter(TD.donors);
+		let candidates = donorFilter(TD.donors);
 		console.log(JSON.parse(JSON.stringify(candidates)));
 		
 		// Get round value
-		var $rndNum = doc.querySelector('#rnd-num');
-		var round = $rndNum.value;
+		let $rndNum = doc.querySelector('#rnd-num');
+		let round = $rndNum.value;
 		
 		// Draw
 		typeDraw(candidates, round);
@@ -80,18 +84,18 @@
 		initAnnounce();
 	};
 	
-	var destroyMachine = function() {
-		var $machine = doc.querySelector('.machine');
+	let destroyMachine = function() {
+		let $machine = doc.querySelector('.machine');
 		$machine.classList.add('is-hidden');
 	};
 	
-	var initAnnounce = function() {
-		var $announce = doc.querySelector('.announce');
+	let initAnnounce = function() {
+		let $announce = doc.querySelector('.announce');
 		
 		// Contruct the view by doT template
-		var tmplText = doc.getElementById('tmpl-result').text;
-		var tmplFunc = doT.template(tmplText);
-		var tmpl = tmplFunc(TD.lucks);
+		let tmplText = doc.getElementById('tmpl-result').text;
+		let tmplFunc = doT.template(tmplText);
+		let tmpl = tmplFunc(TD.lucks);
 		$announce.innerHTML = tmpl;
 		
 		$announce.classList.add('is-show');
@@ -104,7 +108,7 @@
 		if (res.ok) {
 			return res.text();
 		} else {
-			var error = new Error(res.statusText);
+			let error = new Error(res.statusText);
 			error.res = res;
 			throw error;
 		}
@@ -113,15 +117,15 @@
 		console.log(JSON.parse(JSON.stringify(TD.donors)));
 		
 		// Init footer's ack info
-		var $ackTime = doc.querySelector('.ack-time');
-		var $ackNum = doc.querySelector('.ack-num');
-		var $ack = doc.querySelector('.ack');
+		let $ackTime = doc.querySelector('.ack-time');
+		let $ackNum = doc.querySelector('.ack-num');
+		let $ack = doc.querySelector('.ack');
 		$ackTime.textContent = EXPIRATION_TIME;
 		$ackNum.textContent = TD.donors.length;
 		$ack.classList.remove('is-disabled');
 		
 		// Init draw button
-		var $drawBtn = doc.querySelector('#draw-btn');
+		let $drawBtn = doc.querySelector('#draw-btn');
 		$drawBtn.classList.remove('is-disabled');
 		$drawBtn.addEventListener('click', initDraw);
 	});
