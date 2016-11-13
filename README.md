@@ -3,8 +3,8 @@
 ### TypeDraw #2
 
 - Winner:
-	- [ ] **若能** (via Alipay)
-	- [ ] **宏祝** (via Alipay)
+	- [x] **若能** (via Alipay)
+	- [x] **宏祝** (via Alipay)
 - Prize: [“100 years of Uyghur typefaces on the Silk Road”](http://thetype.b0.upaiyun.com/typechat/assets/typechat033/100years-typefaces-silkroad.jpg)
 - Due: 7 November 2016 00:00 UTC+8
 - Seed: [1478517255324](http://typedraw.laerhsif.com/archive/typedraw-2/#1478517255324)
