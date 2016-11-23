@@ -7,7 +7,7 @@
 	
 	
 	
-	const EXPIRATION_TIME = '7 November 2016 00:00 UTC+8';
+	const EXPIRATION_TIME = '21 November 2016 00:00 UTC+8';
 	const DONORS_CSV_URL = './csv/donors.csv';
 	const FETCH_GET_INIT = {
 		method: 'GET',
