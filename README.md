@@ -3,7 +3,7 @@
 ### TypeDraw #3
 
 - Winner:
-	- [ ] **大黑** (via Alipay)
+	- [x] **大黑** (via Alipay)
 	- [ ] **子龙** (via Alipay)
 - Prize: [《西文排版》](http://www.typeisbeautiful.com/western-type-setting/)
 - Due: 21 November 2016 00:00 UTC+8
