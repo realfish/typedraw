@@ -1,5 +1,8 @@
 # Design dir
 design/
 
+# GitHub Pages temporary dir
+.gh-pages
+
 # Some shell scripts for realfish
 *.realfish
