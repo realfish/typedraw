@@ -6,7 +6,7 @@
 	- [ ] **德龙** (via Alipay)
 	- [ ] **5way** (via Alipay)
 - Prize: [《设计入门教室：设计的基本规则》](http://thetype.b0.upaiyun.com/typechat/assets/typechat036/basic-knowledge-and-rules-of-design.jpg)
-- Due: 21 November 2016 00:00 UTC+8
+- Due: 19 December 2016 00:00 UTC+8
 - Seed: [1482143383448](http://typedraw.laerhsif.com/archive/typedraw-4/#1482143383448)
 - Related: [TypeChat #36](http://www.typeisbeautiful.com/2016/12/11280/)
 
