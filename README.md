@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDraw #4
+
+- Winner:
+	- [ ] **健字** (via Alipay)
+	- [ ] **Domers** (via Alipay)
+- Prize: [《设计入门教室：设计的基本规则》](http://thetype.b0.upaiyun.com/typechat/assets/typechat036/basic-knowledge-and-rules-of-design.jpg)
+- Due: 21 November 2016 00:00 UTC+8
+- Seed: [1482143383448](http://typedraw.laerhsif.com/archive/typedraw-4/#1482143383448)
+- Related: [TypeChat #36](http://www.typeisbeautiful.com/2016/12/11280/)
+
 ### TypeDraw #3
 
 - Winner:
