@@ -3,8 +3,8 @@
 ### TypeDraw #5
 
 - Winner:
-	- [ ] **Cicielel** (via Alipay)
-	- [ ] **mintisan** (via Alipay)
+	- [x] **Cicielel** (via Alipay)
+	- [x] **mintisan** (via Alipay)
 - Prize: [《西文排版》](http://www.typeisbeautiful.com/western-type-setting/)
 - Due: 16 Januray 2017 00:00 UTC+8
 - Seed: [1484756718807](http://typedraw.laerhsif.com/archive/typedraw-5/#1484756718807)
