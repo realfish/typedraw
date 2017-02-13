@@ -1,5 +1,14 @@
 ## Archives
 
+### TypeDraw #6
+
+- Winner:
+	- [ ] **周安迪** (via Alipay)
+- Prize: [『文字とタイポグラフィの地平』](http://www.idea-mag.com/books/ideadocument_lettersandtypography/)
+- Due: 13 February 2017 00:00 UTC+8
+- Seed: [1486974822491](http://typedraw.laerhsif.com/archive/typedraw-6/#1486974822491)
+- Related: [TypeChat #40](http://www.typeisbeautiful.com/2017/02/11518/)
+
 ### TypeDraw #5
 
 - Winner:
