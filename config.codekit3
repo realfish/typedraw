@@ -7,7 +7,7 @@
 		"uuidString": "1AE0F5F5-A611-4BDB-A029-F5EB7721281B"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25568",
 "files": {
 	"\/.gh-pages": {
 		"ft": 65536,
@@ -1473,6 +1473,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -1801,6 +1805,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
 		"prefer-rest-params": {
 			"active": 0,
 			"optionString": ""
@@ -1894,6 +1902,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
