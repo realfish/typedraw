@@ -7,7 +7,7 @@
 		"uuidString": "1AE0F5F5-A611-4BDB-A029-F5EB7721281B"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/.gh-pages": {
 		"ft": 65536,
@@ -432,42 +432,52 @@
 	"\/public\/assets\/apple-touch-icon-120.png": {
 		"ft": 32768,
 		"iS": 4788,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/public\/assets\/apple-touch-icon-120.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/apple-touch-icon-152.png": {
 		"ft": 32768,
 		"iS": 6208,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/public\/assets\/apple-touch-icon-152.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/apple-touch-icon-180.png": {
 		"ft": 32768,
 		"iS": 7567,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/public\/assets\/apple-touch-icon-180.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/apple-touch-icon-76.png": {
 		"ft": 32768,
 		"iS": 2937,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/public\/assets\/apple-touch-icon-76.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 6208,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/public\/assets\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/assets\/favicon.ico": {
 		"ft": 8192,
@@ -490,7 +500,8 @@
 		"oA": 1,
 		"oAP": "\/public\/assets\/social-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/CNAME": {
 		"ft": 8192,
@@ -1273,6 +1284,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1752,6 +1767,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -2352,7 +2371,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 1,
@@ -2445,7 +2465,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,

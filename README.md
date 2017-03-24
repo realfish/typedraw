@@ -3,8 +3,9 @@
 ### TypeDraw #7
 
 - Winner:
-	- [ ] **超杰** (via Alipay)
+	- [x] **超杰** (via Alipay)
 	- [ ] **🔺H. H** (via WeChat)
+	- [ ] **ty** (via WeChat)
 - Prize: [《西文书法的艺术》](http://www.typeisbeautiful.com/art-of-calligraphy/)
 - Due: 27 February 2017 00:00 UTC+8
 - Seed: [1488277684881](http://typedraw.laerhsif.com/archive/typedraw-7/#1488277684881)
