@@ -6,7 +6,7 @@
 	- [ ] **晓明** (via Alipay)
 	- [ ] **浩浩** (via Alipay)
 - Prize: [《Typography 字誌：Issue 02》](http://www.books.com.tw/products/0010729204)
-- Due: 27 February 2017 00:00 UTC+8
+- Due: 27 March 2017 00:00 UTC+8
 - Seed: [1490711340071](http://typedraw.laerhsif.com/archive/typedraw-8/#1490711340071)
 - Related: [TypeChat #43](http://www.typeisbeautiful.com/2017/03/11622/)
 
