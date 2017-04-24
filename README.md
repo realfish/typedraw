@@ -5,9 +5,9 @@
 - Winner:
 	- [x] **298円与独角仙** (via WeChat)
 	- [x] **洛克青象** (via Alipay)
-- Prize: [《Typography 字誌：Issue 02》](http://www.books.com.tw/products/0010729204)
+- Prize: [Alphabet Coasters (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat045/alphabet-coasters.jpg)
 - Due: 24 April 2017 00:00 UTC+8
-- Seed: [1490711340071](http://typedraw.laerhsif.com/archive/typedraw-9/#1493006963287)
+- Seed: [1493006963287](http://typedraw.laerhsif.com/archive/typedraw-9/#1493006963287)
 - Related: [TypeChat #45](http://www.typeisbeautiful.com/2017/04/12019/)
 
 ### TypeDraw #8
