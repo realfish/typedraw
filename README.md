@@ -5,6 +5,7 @@
 - Winner:
 	- [ ] **298円与独角仙** (via WeChat)
 	- [x] **洛克青象** (via Alipay)
+	- [ ] **昱晖** (via Alipay)
 - Prize: [Alphabet Coasters (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat045/alphabet-coasters.jpg)
 - Due: 24 April 2017 00:00 UTC+8
 - Seed: [1493006963287](http://typedraw.laerhsif.com/archive/typedraw-9/#1493006963287)
