@@ -6,8 +6,8 @@
 	- [ ] **小郭郭** (via Alipay)
 	- [ ] **Q** (via Alipay)
 - Prize: [Sagabon Coasters (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat047/sagabon-coasters.jpg)
-- Due: 24 April 2017 00:00 UTC+8
-- Seed: [1493006963287](http://typedraw.laerhsif.com/archive/typedraw-10/#1495444916957)
+- Due: 22 May 2017 00:00 UTC+8
+- Seed: [1495444916957](http://typedraw.laerhsif.com/archive/typedraw-10/#1495444916957)
 - Related: [TypeChat #47](http://www.typeisbeautiful.com/2017/05/12298/)
 
 ### TypeDraw #9
