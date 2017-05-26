@@ -3,8 +3,8 @@
 ### TypeDraw #10
 
 - Winner:
-	- [ ] **小郭郭** (via Alipay)
-	- [ ] **Q** (via Alipay)
+	- [x] **小郭郭** (via Alipay)
+	- [x] **Q** (via Alipay)
 - Prize: [Sagabon Coasters (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat047/sagabon-coasters.jpg)
 - Due: 22 May 2017 00:00 UTC+8
 - Seed: [1495444916957](http://typedraw.laerhsif.com/archive/typedraw-10/#1495444916957)
@@ -15,7 +15,7 @@
 - Winner:
 	- [ ] **298円与独角仙** (via WeChat)
 	- [x] **洛克青象** (via Alipay)
-	- [ ] **昱晖** (via Alipay)
+	- [x] **昱晖** (via Alipay)
 - Prize: [Alphabet Coasters (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat045/alphabet-coasters.jpg)
 - Due: 24 April 2017 00:00 UTC+8
 - Seed: [1493006963287](http://typedraw.laerhsif.com/archive/typedraw-9/#1493006963287)
