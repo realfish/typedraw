@@ -3,8 +3,8 @@
 ### TypeDraw #11
 
 - Winner:
-	- [ ] **璐** (via Alipay)
-	- [ ] **宇宙** (via Alipay)
+	- [x] **璐** (via Alipay)
+	- [x] **宇宙** (via Alipay)
 - Prize: [《字型散步：日常生活的中文字型学》](http://www.books.com.tw/products/0010654376)
 - Due: 19 June 2017 00:00 UTC+8
 - Seed: [1497873766375](http://typedraw.laerhsif.com/archive/typedraw-11/#1497873766375)
