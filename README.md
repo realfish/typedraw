@@ -6,7 +6,7 @@
 	- [ ] **辉** (via Alipay)
 	- [ ] **Fran** (via Alipay)
 - Prize: [フォントかるた](https://www.fontkaruta.com/)
-- Due: 19 June 2017 00:00 UTC+8
+- Due: 16 July 2017 00:00 UTC+8
 - Seed: [1500288983733](http://typedraw.laerhsif.com/archive/typedraw-12/#1500288983733)
 - Related: [TypeChat #51](https://www.typeisbeautiful.com/2017/07/12950/)
 
