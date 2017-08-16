@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDrw #13
+
+- Winner:
+	- [ ] **超** (via Alipay)
+	- [ ] **Fran** (via WeChat)
+- Prize: [Arphic JingXiHei Coasters](https://thetype.b0.upaiyun.com/typechat/assets/typechat053/arphic-jingxihei-souvenir.jpg)
+- Due: 14 August 2017 00:00 UTC+8
+- Seed: [1502885306988](http://typedraw.laerhsif.com/archive/typedraw-13/#1502885306988)
+- Related: [TypeChat #53](https://www.typeisbeautiful.com/2017/08/13103/)
+
 ### TypeDraw #12
 
 - Winner:
