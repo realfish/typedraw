@@ -1,6 +1,6 @@
 ## Archives
 
-### TypeDrw #13
+### TypeDraw #13
 
 - Winner:
 	- [ ] **超** (via Alipay)
