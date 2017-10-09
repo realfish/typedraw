@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDraw #14
+
+- Winner:
+	- [ ] **侯运晖** (via WeChat)
+	- [ ] **Nirvana** (via Alipay)
+- Prize: [Postcards (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat056/postcards.jpg)
+- Due: 25 September 2017 00:00 UTC+8
+- Seed: [1507524301391](http://typedraw.laerhsif.com/archive/typedraw-14/#1507524301391)
+- Related: [TypeChat #56](https://www.typeisbeautiful.com/2017/09/13460/)
+
 ### TypeDraw #13
 
 - Winner:
