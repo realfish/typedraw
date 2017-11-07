@@ -4,7 +4,7 @@
 
 - Winner:
 	- [ ] **鹤公子** (via Alipay)
-	- [ ] **吉他四** (via Alipay)
+	- [x] **吉他四** (via Alipay)
 - Prize: Posters [(Hamilton Wood Type & Printing Museum)](http://thetype.b0.upaiyun.com/typechat/assets/typechat056/postcards.jpg)
 - Due: 9 October 2017 00:00 UTC+8
 - Seed: [1507525361170](http://typedraw.laerhsif.com/archive/typedraw-15/#1507525361170)
@@ -14,7 +14,10 @@
 
 - Winner:
 	- [ ] **侯运晖** (via WeChat)
-	- [ ] **Nirvana** (via Alipay)
+	- [x] **Nirvana** (via Alipay)
+	- [ ] **王伟高** (via Alipay)
+	- [ ] **花花虎** (via Alipay)
+	- [ ] **大门** (via Alipay)
 - Prize: [Postcards (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat056/postcards.jpg)
 - Due: 25 September 2017 00:00 UTC+8
 - Seed: [1507524301391](http://typedraw.laerhsif.com/archive/typedraw-14/#1507524301391)
