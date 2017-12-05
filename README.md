@@ -6,6 +6,8 @@
 	- [ ] **鹤公子** (via Alipay)
 	- [x] **吉他四** (via Alipay)
 	- [ ] **紫辰** (via Alipay)
+	- [ ] **敬钺** (via WeChat)
+	- [x] **Rye** (via Alipay)
 - Prize: Posters [(Hamilton Wood Type & Printing Museum)](http://woodtype.org/)
 - Due: 9 October 2017 00:00 UTC+8
 - Seed: [1507525361170](http://typedraw.laerhsif.com/archive/typedraw-15/#1507525361170)
