@@ -5,7 +5,7 @@ var TD = TD || {};
 TD.donors = [];
 
 // Expiry date
-TD.expiry = '9 October 2017 00:00 UTC+8';
+TD.expiry = '20 November 2017 00:00 UTC+8';
 
 // Lucky donors
 TD.lucks = [];
