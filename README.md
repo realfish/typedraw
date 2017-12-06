@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDraw #16
+
+- Winner:
+	- [ ] **Even** (via Alipay)
+	- [ ] **哇哇哇哇哇塞** (via Alipay)
+- Prize: [<cite>TypeNotes, Issue 1</cite>](https://shop.fontsmith.com/products/typenotes-issue-1)
+- Due: 20 November 2017 00:00 UTC+8
+- Seed: [1512556943967](http://typedraw.laerhsif.com/archive/typedraw-16/#1512556943967)
+- Related: [TypeChat #60](https://www.typeisbeautiful.com/2017/11/13673/)
+
 ### TypeDraw #15
 
 - Winner:
