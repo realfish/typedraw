@@ -1,10 +1,20 @@
 ## Archives
 
+### TypeDraw #17
+
+- Winner:
+	- [ ] **Ruyi Li** (via PayPal)
+	- [ ] **JIANG 1992** (via WeChat)
+- Prize: [Type& 2017 tote bag](hhttp://www.typeand.net/_img/2017/2017_gallery22.jpg)
+- Due: 1 January 2018 00:00 UTC+8
+- Seed: [1515150174767](http://typedraw.laerhsif.com/archive/typedraw-17/#1515150174767)
+- Related: [TypeChat #63](https://www.typeisbeautiful.com/2017/12/13968/)
+
 ### TypeDraw #16
 
 - Winner:
-	- [ ] **Even** (via Alipay)
-	- [ ] **哇哇哇哇哇塞** (via Alipay)
+	- [x] **Even** (via Alipay)
+	- [x] **哇哇哇哇哇塞** (via Alipay)
 - Prize: [<cite>TypeNotes, Issue 1</cite>](https://shop.fontsmith.com/products/typenotes-issue-1)
 - Due: 20 November 2017 00:00 UTC+8
 - Seed: [1512556943967](http://typedraw.laerhsif.com/archive/typedraw-16/#1512556943967)
