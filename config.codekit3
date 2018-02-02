@@ -7,7 +7,7 @@
 		"uuidString": "1AE0F5F5-A611-4BDB-A029-F5EB7721281B"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/.gh-pages": {
 		"ft": 65536,
@@ -1215,6 +1215,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,

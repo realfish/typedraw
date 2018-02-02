@@ -1,12 +1,22 @@
 ## Archives
 
+### TypeDraw #18
+
+- Winner:
+	- [ ] **space** (via Alipay)
+	- [ ] **宗宗** (via Alipay)
+- Prize: [Shanghai Type Landscape Calendar 2018](https://weidian.com/item.html?itemID=2214204623)
+- Due: 29 January 2018 00:00 UTC+8
+- Seed: [1517568256744](http://typedraw.laerhsif.com/archive/typedraw-18/#1517568256744)
+- Related: [TypeChat #65](https://www.typeisbeautiful.com/2018/01/14183/)
+
 ### TypeDraw #17
 
 - Winner:
 	- [x] **Ruyi Li** (via PayPal)
 	- [ ] **JIANG 1992** (via WeChat)
 	- [ ] **nelson** (via Alipay)
-- Prize: [Type& 2017 tote bag](hhttp://www.typeand.net/_img/2017/2017_gallery22.jpg)
+- Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
 - Due: 1 January 2018 00:00 UTC+8
 - Seed: [1515150174767](http://typedraw.laerhsif.com/archive/typedraw-17/#1515150174767)
 - Related: [TypeChat #63](https://www.typeisbeautiful.com/2017/12/13968/)
