@@ -3,8 +3,9 @@
 ### TypeDraw #17
 
 - Winner:
-	- [ ] **Ruyi Li** (via PayPal)
+	- [x] **Ruyi Li** (via PayPal)
 	- [ ] **JIANG 1992** (via WeChat)
+	- [ ] **nelson** (via Alipay)
 - Prize: [Type& 2017 tote bag](hhttp://www.typeand.net/_img/2017/2017_gallery22.jpg)
 - Due: 1 January 2018 00:00 UTC+8
 - Seed: [1515150174767](http://typedraw.laerhsif.com/archive/typedraw-17/#1515150174767)
