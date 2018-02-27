@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDraw #19
+
+- Winner:
+	- [x] **马仕睿** (via Alipay)
+	- [x] **\*恩奇** (via Alipay)
+- Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
+- Due: 26 February 2018 00:00 UTC+8
+- Seed: [1519722684534](http://typedraw.laerhsif.com/archive/typedraw-19/#1519722684534)
+- Related: [TypeChat #67](https://www.typeisbeautiful.com/2018/02/14299/)
+
 ### TypeDraw #18
 
 - Winner:
