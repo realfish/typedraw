@@ -1,10 +1,21 @@
 ## Archives
 
+### TypeDraw #20
+
+- Winner:
+	- [ ] **Lim Lian Tze** (via PayPal)
+	- [ ] **施飞** (via WeChat)
+- Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
+- Due: 12 March 2018 00:00 UTC+8
+- Seed: [1521022613572](http://typedraw.laerhsif.com/archive/typedraw-20/#1521022613572)
+- Related: [TypeChat #68](https://www.typeisbeautiful.com/2018/03/14356/)
+
 ### TypeDraw #19
 
 - Winner:
-	- [x] **马仕睿** (via Alipay)
+	- [ ] **马仕睿** (via Alipay)
 	- [x] **\*恩奇** (via Alipay)
+	- [ ] **波** (via Alipay)
 - Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
 - Due: 26 February 2018 00:00 UTC+8
 - Seed: [1519722684534](http://typedraw.laerhsif.com/archive/typedraw-19/#1519722684534)
