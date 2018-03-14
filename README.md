@@ -5,7 +5,7 @@
 - Winner:
 	- [ ] **Lim Lian Tze** (via PayPal)
 	- [ ] **施飞** (via WeChat)
-- Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
+- Prize: [《字体设计艺术：西文字体排印五讲》](https://www.amazon.cn/dp/B06XFM1R7C)
 - Due: 12 March 2018 00:00 UTC+8
 - Seed: [1521022613572](http://typedraw.laerhsif.com/archive/typedraw-20/#1521022613572)
 - Related: [TypeChat #68](https://www.typeisbeautiful.com/2018/03/14356/)
