@@ -1,6 +1,6 @@
 id,channel,type,flag
 Rex Chen,WeChat,staff,0
-马仕睿,WeChat,ind,0
+马仕睿,WeChat,ind,1
 TianShi,WeChat,ind,0
 戴恩斯的月光,WeChat,ind,0
 "虎卅 Dang, Zi-Hong",WeChat,ind,0
@@ -46,6 +46,8 @@ A.Z,WeChat,ind,0
 格格,WeChat,ind,0
 sara.,WeChat,ind,0
 几点,WeChat,ind,0
+小泽猫里奥,WeChat,ind,0
+Edddddy,WeChat,ind,0
 方正字库,Alipay,org,0
 汉仪字库,Alipay,org,0
 realfish,Alipay,staff,0
@@ -55,7 +57,7 @@ realfish,Alipay,staff,0
 德龙,Alipay,ind,1
 健字,Alipay,ind,0
 贺若龙,Alipay,ind,0
-波,Alipay,ind,0
+波,Alipay,ind,1
 格思,Alipay,ind,0
 伟高,Alipay,ind,0
 胡点诚 / 胡点,Alipay,ind,1
@@ -190,7 +192,7 @@ Even,Alipay,ind,1
 食べ物,Alipay,ind,0
 凯伦,Alipay,ind,0
 脑八,Alipay,ind,0
-*恩奇,Alipay,ind,0
+*恩奇,Alipay,ind,1
 *妮,Alipay,ind,0
 广福,Alipay,ind,0
 Jiefan,Alipay,ind,0
@@ -208,6 +210,9 @@ RsuhC,Alipay,ind,0
 郁结何处,Alipay,ind,0
 *天晴,Alipay,ind,0
 庆胜,Alipay,ind,0
+*竣誉,Alipay,ind,0
+*书辰,Alipay,ind,0
+甜食,Alipay,ind,0
 Ruyi Li,PayPal,ind,1
 Guojun Yang,PayPal,ind,0
 徐缓,PayPal,ind,0
