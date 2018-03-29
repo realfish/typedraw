@@ -3,8 +3,8 @@
 ### TypeDraw #20
 
 - Winner:
-	- [ ] **Lim Lian Tze** (via PayPal)
-	- [ ] **施飞** (via WeChat)
+	- [x] **Lim Lian Tze** (via PayPal)
+	- [x] **施飞** (via WeChat)
 - Prize: [《字体设计艺术：西文字体排印五讲》](https://www.amazon.cn/dp/B06XFM1R7C)
 - Due: 12 March 2018 00:00 UTC+8
 - Seed: [1521022613572](http://typedraw.laerhsif.com/archive/typedraw-20/#1521022613572)
@@ -15,7 +15,7 @@
 - Winner:
 	- [ ] **马仕睿** (via Alipay)
 	- [x] **\*恩奇** (via Alipay)
-	- [ ] **波** (via Alipay)
+	- [x] **波** (via Alipay)
 - Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
 - Due: 26 February 2018 00:00 UTC+8
 - Seed: [1519722684534](http://typedraw.laerhsif.com/archive/typedraw-19/#1519722684534)
