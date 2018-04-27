@@ -7,7 +7,7 @@
 		"uuidString": "1AE0F5F5-A611-4BDB-A029-F5EB7721281B"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gh-pages": {
 		"ft": 65536,
@@ -526,6 +526,7 @@
 	"\/public\/assets\/social-thumb.jpg": {
 		"ft": 16384,
 		"iS": 62273,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/public\/assets\/social-thumb.jpg",
 		"oF": 0,
@@ -644,7 +645,8 @@
 	"creationDate": 500209552,
 	"displayValue": "TypeDraw",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "\/public\/assets\/apple-touch-icon-120.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2447,6 +2449,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
