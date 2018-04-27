@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDraw #22
+
+- Winner:
+	- [ ] **白颜料4块8** (via WeChat)
+	- [ ] **\*若曦** (via Alipay)
+- Prize: [《西文书法的艺术》](https://www.typeisbeautiful.com/art-of-calligraphy/), [《西文排版》](https://www.typeisbeautiful.com/western-type-setting/)
+- Due: 23 April 2018 00:00 UTC+8
+- Seed: [1524825107000](http://typedraw.laerhsif.com/archive/typedraw-22/#1524825107000)
+- Related: [TypeChat #71](https://www.typeisbeautiful.com/2018/04/14685/)
+
 ### TypeDraw #21
 
 - Winner:
