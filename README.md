@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDraw #23
+
+- Winner:
+	- [ ] **宗恺** (via Alipay)
+	- [ ] **xekri** (via Alipay)
+- Prize: [Emoji EasyCard](https://thetype.b0.upaiyun.com/typechat/assets/typechat072/emoji-easycard.jpg), [Tazugane specimen](https://thetype.b0.upaiyun.com/typechat/assets/typechat072/tazugane-specimen.jpg)
+- Due: 7 May 2018 00:00 UTC+8
+- Seed: [1525686072926](http://typedraw.laerhsif.com/archive/typedraw-23/#1525686072926)
+- Related: [TypeChat #72](https://thetype.com/2018/05/14867/)
+
 ### TypeDraw #22
 
 - Winner:
