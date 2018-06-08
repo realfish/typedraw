@@ -5,6 +5,8 @@
 - Winner:
 	- [ ] **宗恺** (via Alipay)
 	- [ ] **xekri** (via Alipay)
+	- [ ] **贺若龙** (via Alipay)
+	- [ ] **玥** (via Alipay)
 - Prize: [Emoji EasyCard](https://thetype.b0.upaiyun.com/typechat/assets/typechat072/emoji-easycard.jpg), [Tazugane specimen](https://thetype.b0.upaiyun.com/typechat/assets/typechat072/tazugane-specimen.jpg)
 - Due: 7 May 2018 00:00 UTC+8
 - Seed: [1525686072926](http://typedraw.laerhsif.com/archive/typedraw-23/#1525686072926)
@@ -15,10 +17,10 @@
 - Winner:
 	- [x] **白颜料4块8** (via WeChat)
 	- [x] **\*若曦** (via Alipay)
-- Prize: [《西文书法的艺术》](https://www.typeisbeautiful.com/art-of-calligraphy/), [《西文排版》](https://www.typeisbeautiful.com/western-type-setting/)
+- Prize: [《西文书法的艺术》](https://thetype.com/art-of-calligraphy/), [《西文排版》](https://thetype.com/western-type-setting/)
 - Due: 23 April 2018 00:00 UTC+8
 - Seed: [1524825107000](http://typedraw.laerhsif.com/archive/typedraw-22/#1524825107000)
-- Related: [TypeChat #71](https://www.typeisbeautiful.com/2018/04/14685/)
+- Related: [TypeChat #71](https://thetype.com/2018/04/14685/)
 
 ### TypeDraw #21
 
@@ -26,10 +28,11 @@
 	- [x] **一泓** (via Alipay)
 	- [ ] **靖轩** (via Alipay)
 	- [ ] **\*少将** (via Alipay)
+	- [ ] **你你** (via Alipay)
 - Prize: [TypeTour Macau souvenirs](https://thetype.b0.upaiyun.com/typechat/assets/typechat069/typetour-macau-souvenir.jpg)
 - Due: 26 March 2018 00:00 UTC+8
 - Seed: [1522326224661](http://typedraw.laerhsif.com/archive/typedraw-21/#1522326224661)
-- Related: [TypeChat #69](https://www.typeisbeautiful.com/2018/03/14494/)
+- Related: [TypeChat #69](https://thetype.com/2018/03/14494/)
 
 ### TypeDraw #20
 
@@ -39,7 +42,7 @@
 - Prize: [《字体设计艺术：西文字体排印五讲》](https://www.amazon.cn/dp/B06XFM1R7C)
 - Due: 12 March 2018 00:00 UTC+8
 - Seed: [1521022613572](http://typedraw.laerhsif.com/archive/typedraw-20/#1521022613572)
-- Related: [TypeChat #68](https://www.typeisbeautiful.com/2018/03/14356/)
+- Related: [TypeChat #68](https://thetype.com/2018/03/14356/)
 
 ### TypeDraw #19
 
@@ -50,7 +53,7 @@
 - Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
 - Due: 26 February 2018 00:00 UTC+8
 - Seed: [1519722684534](http://typedraw.laerhsif.com/archive/typedraw-19/#1519722684534)
-- Related: [TypeChat #67](https://www.typeisbeautiful.com/2018/02/14299/)
+- Related: [TypeChat #67](https://thetype.com/2018/02/14299/)
 
 ### TypeDraw #18
 
@@ -60,7 +63,7 @@
 - Prize: [Shanghai Type Landscape Calendar 2018](https://weidian.com/item.html?itemID=2214204623)
 - Due: 29 January 2018 00:00 UTC+8
 - Seed: [1517568256744](http://typedraw.laerhsif.com/archive/typedraw-18/#1517568256744)
-- Related: [TypeChat #65](https://www.typeisbeautiful.com/2018/01/14183/)
+- Related: [TypeChat #65](https://thetype.com/2018/01/14183/)
 
 ### TypeDraw #17
 
@@ -71,7 +74,7 @@
 - Prize: [Type& 2017 tote bag](http://www.typeand.net/_img/2017/2017_gallery22.jpg)
 - Due: 1 January 2018 00:00 UTC+8
 - Seed: [1515150174767](http://typedraw.laerhsif.com/archive/typedraw-17/#1515150174767)
-- Related: [TypeChat #63](https://www.typeisbeautiful.com/2017/12/13968/)
+- Related: [TypeChat #63](https://thetype.com/2017/12/13968/)
 
 ### TypeDraw #16
 
@@ -81,7 +84,7 @@
 - Prize: [<cite>TypeNotes, Issue 1</cite>](https://shop.fontsmith.com/products/typenotes-issue-1)
 - Due: 20 November 2017 00:00 UTC+8
 - Seed: [1512556943967](http://typedraw.laerhsif.com/archive/typedraw-16/#1512556943967)
-- Related: [TypeChat #60](https://www.typeisbeautiful.com/2017/11/13673/)
+- Related: [TypeChat #60](https://thetype.com/2017/11/13673/)
 
 ### TypeDraw #15
 
@@ -94,7 +97,7 @@
 - Prize: Posters [(Hamilton Wood Type & Printing Museum)](http://woodtype.org/)
 - Due: 9 October 2017 00:00 UTC+8
 - Seed: [1507525361170](http://typedraw.laerhsif.com/archive/typedraw-15/#1507525361170)
-- Related: [TypeChat #57](https://www.typeisbeautiful.com/2017/10/13516/)
+- Related: [TypeChat #57](https://thetype.com/2017/10/13516/)
 
 ### TypeDraw #14
 
@@ -108,7 +111,7 @@
 - Prize: [Postcards (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat056/postcards.jpg)
 - Due: 25 September 2017 00:00 UTC+8
 - Seed: [1507524301391](http://typedraw.laerhsif.com/archive/typedraw-14/#1507524301391)
-- Related: [TypeChat #56](https://www.typeisbeautiful.com/2017/09/13460/)
+- Related: [TypeChat #56](https://thetype.com/2017/09/13460/)
 
 ### TypeDraw #13
 
@@ -118,7 +121,7 @@
 - Prize: [Arphic JingXiHei Coasters](https://thetype.b0.upaiyun.com/typechat/assets/typechat053/arphic-jingxihei-souvenir.jpg)
 - Due: 14 August 2017 00:00 UTC+8
 - Seed: [1502885306988](http://typedraw.laerhsif.com/archive/typedraw-13/#1502885306988)
-- Related: [TypeChat #53](https://www.typeisbeautiful.com/2017/08/13103/)
+- Related: [TypeChat #53](https://thetype.com/2017/08/13103/)
 
 ### TypeDraw #12
 
@@ -129,7 +132,7 @@
 - Prize: [フォントかるた](https://www.fontkaruta.com/)
 - Due: 17 July 2017 00:00 UTC+8
 - Seed: [1500288983733](http://typedraw.laerhsif.com/archive/typedraw-12/#1500288983733)
-- Related: [TypeChat #51](https://www.typeisbeautiful.com/2017/07/12950/)
+- Related: [TypeChat #51](https://thetype.com/2017/07/12950/)
 
 ### TypeDraw #11
 
@@ -139,7 +142,7 @@
 - Prize: [《字型散步：日常生活的中文字型学》](http://www.books.com.tw/products/0010654376)
 - Due: 19 June 2017 00:00 UTC+8
 - Seed: [1497873766375](http://typedraw.laerhsif.com/archive/typedraw-11/#1497873766375)
-- Related: [TypeChat #49](https://www.typeisbeautiful.com/2017/06/12466/)
+- Related: [TypeChat #49](https://thetype.com/2017/06/12466/)
 
 ### TypeDraw #10
 
