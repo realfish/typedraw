@@ -1,5 +1,15 @@
 ## Archives
 
+### TypeDraw #24
+
+- Winner:
+	- [ ] **广福** (via Alipay)
+	- [ ] **小泽猫里奥** (via Alipay)
+- Prize: [Sagabon Coasters (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat047/sagabon-coasters.jpg)
+- Due: 4 June 2018 00:00 UTC+8
+- Seed: [1528455937729](http://typedraw.laerhsif.com/archive/typedraw-24/#1528455937729)
+- Related: [TypeChat #74](https://thetype.com/2018/05/15033/)
+
 ### TypeDraw #23
 
 - Winner:
