@@ -38,7 +38,7 @@
 	- [x] **一泓** (via Alipay)
 	- [ ] **靖轩** (via Alipay)
 	- [ ] **\*少将** (via Alipay)
-	- [ ] **你你** (via Alipay)
+	- [x] **你你** (via Alipay)
 - Prize: [TypeTour Macau souvenirs](https://thetype.b0.upaiyun.com/typechat/assets/typechat069/typetour-macau-souvenir.jpg)
 - Due: 26 March 2018 00:00 UTC+8
 - Seed: [1522326224661](http://typedraw.laerhsif.com/archive/typedraw-21/#1522326224661)
