@@ -3,8 +3,8 @@
 ### TypeDraw #25
 
 - Winner:
-	- [ ] **锦程** (via Alipay)
-	- [ ] **JJ** (via Alipay)
+	- [x] **锦程** (via Alipay)
+	- [x] **JJ** (via Alipay)
 - Prize: [TypeTour Berlin souvenirs](https://thetype.b0.upaiyun.com/typechat/assets/typechat076/typetour-berlin-souvenir.jpg)
 - Due: 2 July 2018 00:00 UTC+8
 - Seed: [1530782014443](http://typedraw.laerhsif.com/archive/typedraw-25/#1530782014443)
