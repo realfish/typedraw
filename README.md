@@ -15,6 +15,12 @@
 - Winner:
 	- [ ] **广福** (via Alipay)
 	- [ ] **小泽猫里奥** (via Alipay)
+	- [ ] ***高焓** (via Alipay)
+	- [ ] **Wei LYU - 纸质书的设计人** (via WeChat)
+	- [x] **小泡泡吹鱼** (via Alipay)
+	- [ ] **Domers** (via Alipay)
+	- [ ] **Leo張-Speechless** (via Alipay)
+	- [ ] **剑辉** (via Alipay)
 - Prize: [Sagabon Coasters (Printing Museum, Tokyo)](http://thetype.b0.upaiyun.com/typechat/assets/typechat047/sagabon-coasters.jpg)
 - Due: 4 June 2018 00:00 UTC+8
 - Seed: [1528455937729](http://typedraw.laerhsif.com/archive/typedraw-24/#1528455937729)
@@ -27,6 +33,9 @@
 	- [ ] **xekri** (via Alipay)
 	- [ ] **贺若龙** (via Alipay)
 	- [ ] **玥** (via Alipay)
+	- [ ] **viv** (via WeChat)
+	- [ ] ***妮** (via Alipay)
+	- [x] **朱小强** (via Alipay)
 - Prize: [Emoji EasyCard](https://thetype.b0.upaiyun.com/typechat/assets/typechat072/emoji-easycard.jpg), [Tazugane specimen](https://thetype.b0.upaiyun.com/typechat/assets/typechat072/tazugane-specimen.jpg)
 - Due: 7 May 2018 00:00 UTC+8
 - Seed: [1525686072926](http://typedraw.laerhsif.com/archive/typedraw-23/#1525686072926)
