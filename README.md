@@ -3,8 +3,8 @@
 ### TypeDraw #26
 
 - Winner:
-	- [ ] **育黎** (via Alipay)
-	- [ ] **W** (via Alipay)
+	- [x] **育黎** (via Alipay)
+	- [x] **W** (via Alipay)
 - Prize: [“Evolution of Scripts within the Indic Cultural Sphere”](https://weidian.com/item/?itemID=2548209551)
 - Due: 30 July 2018 00:00 UTC+8
 - Seed: [1533125225946](http://typedraw.laerhsif.com/archive/typedraw-26/#1533125225946)
